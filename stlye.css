@@ -1,0 +1,33 @@
+ .parent {
+     width: 60vw;
+     padding: 3vw;
+     height: 60vh;
+     margin: 10vh auto;
+     background-color: rgb(219, 125, 219);
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+ }
+ 
+ .child {
+     height: 100px;
+     width: 100px;
+     border-radius: 20%;
+     background-color: rgb(221, 69, 69);
+ }
+ 
+ .child1 {
+     background-color: rgb(245, 17, 17);
+ }
+ 
+ .child2 {
+     background-color: green;
+ }
+ 
+ .child3 {
+     background-color: indigo;
+ }
+ 
+ .child4 {
+     background-color: yellow;
+ }
